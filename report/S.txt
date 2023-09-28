@@ -1,0 +1,24 @@
+game # 50:0.962
+game # 51:0.957
+Accuracy MSE: 95.44
+Accuracy MAE: 98.93
+Accuracy MSE: 95.64
+Accuracy MAE: 98.95
+Accuracy MSE: 95.65
+Accuracy MAE: 98.96
+Accuracy MSE: 95.44
+Accuracy MAE: 98.93
+Accuracy MSE: 95.41
+Accuracy MAE: 98.93
+Accuracy MSE: 95.39
+Accuracy MAE: 98.93
+Accuracy MSE: 95.65
+Accuracy MAE: 98.95
+Accuracy MSE: 95.64
+Accuracy MAE: 98.95
+Accuracy MSE: 95.66
+Accuracy MAE: 98.96
+Accuracy MSE: 95.65
+Accuracy MAE: 98.96
+Accuracy MAE avg: 98.94
+Accuracy RMSE avg: 95.56

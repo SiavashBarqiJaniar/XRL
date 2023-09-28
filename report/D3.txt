@@ -1,0 +1,74 @@
+game # 50:0.963
+game # 51:0.956
+game # 50:0.957
+game # 51:0.964
+game # 50:0.957
+game # 51:0.961
+game # 50:0.942
+game # 51:0.975
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MAE avg: 98.81
+Accuracy RMSE avg: 96.94
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MSE: 98.23
+Accuracy MAE: 99.60
+Accuracy MAE avg: 99.60
+Accuracy RMSE avg: 98.23
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MSE: 96.94
+Accuracy MAE: 98.81
+Accuracy MAE avg: 98.81
+Accuracy RMSE avg: 96.94
